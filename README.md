@@ -18,7 +18,7 @@ It fetches live weather data using the **OpenWeatherMap API** and displays it wi
 - OpenWeatherMap API
 
 ## 📸 Screenshots
-<img width="1918" height="939" alt="image" src="https://github.com/user-attachments/assets/8087d7f5-8d8e-4bd9-a0fa-2323ef596e10" />
+![Home](<img width="1918" height="939" alt="image" src="https://github.com/user-attachments/assets/8087d7f5-8d8e-4bd9-a0fa-2323ef596e10" />)
 <img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/0b114ad0-cc05-4ae3-9790-71cfc3194e4b" />
 <img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/f353b0cb-8dd4-4409-93b5-5eb87b850560" />
 <img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/ddaedfab-1b46-4aed-8eeb-cf1db96aa546" />
